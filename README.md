@@ -10,7 +10,7 @@ The project consists of several key components that work together to create a co
 **· Board**: A standard chessboard with magnetic pieces.
 **· Camera**: A camera mounted above the board or into the robotic face to capture images and detect piece movements.
 
-**2. Computer Vision System**
+**2. Computer Vision System** 
 **· Piece Detection**: Uses computer vision techniques to recognize and track the pieces on the board.
 **· Movement Recognition**: Detects and records the user's moves by comparing the current state of the board with a reference image.
 
