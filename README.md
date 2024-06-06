@@ -91,27 +91,36 @@ This section lists the 3D components used in the project along with their descri
 
 *  **Description**: Holds the motor that drives the belt.
 *  **Dimensions**:
-  *  Length: 6.5 cm
-  *  Width: 5 cm
-  *  Height: 2 cm
+     *  Length: 6.5 cm
+       
+     *  Width: 5 cm
+       
+     *  Height: 2 cm
+       
 *  **File**: motor_support.stl
 
 **5. Belt Support (2 pieces)**
 
 *  **Description**: Provides extra support for the belt at the end of the rail.
 *  **Dimensions**:
-  *  Length: 4 cm
-  *  Width: 5 cm
-  *  Height: 2 cm
+     *  Length: 4 cm
+       
+     *  Width: 5 cm
+       
+     *  Height: 2 cm
+       
 *  **File**: belt_support.stl
 
 **6. Chessboard**
 
 *  **Description**: The chessboard where the game is played.
 *  **Dimensions**:
-  *  Length: 47.5 cm
-  *  Width: 47.5 cm
-  *  Height: 10 cm
+     *  Length: 47.5 cm
+       
+     *  Width: 47.5 cm
+       
+     *  Height: 10 cm
+       
 *  **File**: chessboard.stl
 
 #### How to Use the 3D Files
