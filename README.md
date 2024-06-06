@@ -55,11 +55,11 @@ This section lists the 3D components used in the project along with their descri
 
 *  **Description**: Rails for moving the X-Y axes.
    *  **Dimensions**:
-     * **Length**: 39.5 cm
+     * Length: 39.5 cm
      * 
-     * **Width**: 4 cm
+     * Width: 4 cm
      * 
-     * **Height**: 3 cm
+     * Height: 3 cm
      * 
 *  **File**: rail.stl
 
