@@ -10,7 +10,7 @@ The project consists of several key components that work together to create a co
 
 **1. Interactive Chessboard**
 
-  **· Board**: A standard chessboard with magnetic pieces.
+  *  **· Board**: A standard chessboard with magnetic pieces.
 
   **· Camera**: A camera mounted above the board or into the robotic face to capture images and detect piece movements.
 
