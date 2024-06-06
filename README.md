@@ -55,68 +55,68 @@ This section lists the 3D components used in the project along with their descri
 
 *  **Description**: Rails for moving the X-Y axes.
 *  **Dimensions**:
-  **  Length: 39.5 cm
-  **  Width: 4 cm
-  **  Height: 3 cm
+  *  Length: 39.5 cm
+  *  Width: 4 cm
+  *  Height: 3 cm
 *  **File**: rail.stl
 
 **2. Small Support (2 pieces)**
 
-**Description**: First support for mounting one rail on top of another; second support for mounting the electromagnet on the upper rail.
-**Dimensions**:
-Length: 6 cm
-Width: 5 cm
-Height: 3.65 cm
-**File**: small_support.stl
+*  **Description**: First support for mounting one rail on top of another; second support for mounting the electromagnet on the upper rail.
+*  **Dimensions**:
+  *  Length: 6 cm
+  *  Width: 5 cm
+  *  Height: 3.65 cm
+*  **File**: small_support.stl
 
 **3. Wheel Support (2 pieces)**
 
-**Description**: Provides stability to the upper rail to prevent oscillation during movement.
-**Dimensions**:
-Length: 1.4 cm
-Width: 4.2 cm
-Height: 3.5 cm
-**File**: wheel_support.stl
+*  **Description**: Provides stability to the upper rail to prevent oscillation during movement.
+*  **Dimensions**:
+  *  Length: 1.4 cm
+  *  Width: 4.2 cm
+  *  Height: 3.5 cm
+*  **File**: wheel_support.stl
 
 **4. Motor Support (2 pieces)**
 
-**Description**: Holds the motor that drives the belt.
-**Dimensions**:
-Length: 6.5 cm
-Width: 5 cm
-Height: 2 cm
-**File**: motor_support.stl
+*  **Description**: Holds the motor that drives the belt.
+*  **Dimensions**:
+  *  Length: 6.5 cm
+  *  Width: 5 cm
+  *  Height: 2 cm
+*  **File**: motor_support.stl
 
 **5. Belt Support (2 pieces)**
 
-**Description**: Provides extra support for the belt at the end of the rail.
-**Dimensions**:
-Length: 4 cm
-Width: 5 cm
-Height: 2 cm
-**File**: belt_support.stl
+*  **Description**: Provides extra support for the belt at the end of the rail.
+*  **Dimensions**:
+  *  Length: 4 cm
+  *  Width: 5 cm
+  *  Height: 2 cm
+*  **File**: belt_support.stl
 
 **6. Chessboard**
 
-**Description**: The chessboard where the game is played.
-**Dimensions**:
-Length: 47.5 cm
-Width: 47.5 cm
-Height: 10 cm
-**File**: chessboard.stl
+*  **Description**: The chessboard where the game is played.
+*  **Dimensions**:
+  *  Length: 47.5 cm
+  *  Width: 47.5 cm
+  *  Height: 10 cm
+*  **File**: chessboard.stl
 
 #### How to Use the 3D Files
-**Download**: Click on the file names above to download the STL files.
-**Print**: Use a 3D printer to print the components. Ensure that your printer settings match the requirements of each component.
+*  **Download**: Click on the file names above to download the STL files.
+*  **Print**: Use a 3D printer to print the components. Ensure that your printer settings match the requirements of each component.
 
 #### Folder Structure
-**3D Files Folder**: All 3D files are stored in the **`/3D_files`** directory of this repository.
-**`/3D_files`**
-**`rail.stl`**
-**`small_support.stl`**
-**`wheel_support.stl`**
-**`motor_support.stl`**
-**`belt_support.stl`**
-**`chessboard.stl`**
+*  **3D Files Folder**: All 3D files are stored in the **`/3D_files`** directory of this repository.
+  *  **`/3D_files`**
+    *  **`rail.stl`**
+    *  **`small_support.stl`**
+    *  **`wheel_support.stl`**
+    *  **`motor_support.stl`**
+    *  **`belt_support.stl`**
+    *  **`chessboard.stl`**
 
 ### · (extra)
