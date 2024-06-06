@@ -67,18 +67,24 @@ This section lists the 3D components used in the project along with their descri
 
 *  **Description**: First support for mounting one rail on top of another; second support for mounting the electromagnet on the upper rail.
 *  **Dimensions**:
-  *  Length: 6 cm
-  *  Width: 5 cm
-  *  Height: 3.65 cm
+     *  Length: 6 cm
+
+     *  Width: 5 cm
+
+     *  Height: 3.65 cm
+       
 *  **File**: small_support.stl
 
 **3. Wheel Support (2 pieces)**
 
 *  **Description**: Provides stability to the upper rail to prevent oscillation during movement.
 *  **Dimensions**:
-  *  Length: 1.4 cm
-  *  Width: 4.2 cm
-  *  Height: 3.5 cm
+     *  Length: 1.4 cm
+       
+     *  Width: 4.2 cm
+       
+     *  Height: 3.5 cm
+       
 *  **File**: wheel_support.stl
 
 **4. Motor Support (2 pieces)**
