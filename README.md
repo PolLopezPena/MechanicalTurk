@@ -42,11 +42,11 @@ The project consists of several key components that work together to create a co
 
 ## Library
 
-### · Hardware
+* ### Hardware
 
-### · Schematic
+* ### Schematic
 
-### · 3D Components
+* ### 3D Components
 
 This section lists the 3D components used in the project along with their descriptions, dimensions, and links to the corresponding 3D files.
 
@@ -142,4 +142,4 @@ This section lists the 3D components used in the project along with their descri
       
     *  **`chessboard.stl`**
 
-### · (extra)
+* ### (extra)
