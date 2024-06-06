@@ -113,15 +113,15 @@ This section lists the 3D components used in the project along with their descri
 *  **3D Files Folder**: All 3D files are stored in the **`/3D_files`** directory of this repository.
 * **`/3D_files`**
     *  **`rail.stl`**
-    *  
+      
     *  **`small_support.stl`**
-    *  
+      
     *  **`wheel_support.stl`**
-    *  
+      
     *  **`motor_support.stl`**
-    *  
+      
     *  **`belt_support.stl`**
-    *  
+      
     *  **`chessboard.stl`**
 
 ### · (extra)
