@@ -44,28 +44,28 @@ The project consists of several key components that work together to create a co
 
 * ### Hardware
 **Motor paso a paso de 5V :** 
-https://es.aliexpress.com/item/1005006165081645.html?src=google&src=google&albch=shopping&acnt=439-079-4345&slnk=&plac=&mtctp=&albbt=Google_7_shopping&gclsrc=aw.ds&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&src=google&albch=shopping&acnt=439-079-4345&slnk=&plac=&mtctp=&albbt=Google_7_shopping&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=es1005006165081645&ds_e_product_merchant_id=109343247&ds_e_product_country=ES&ds_e_product_language=es&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20330803848&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0F6jdiGJPwEP1tyPX0AnOv9lnovVhouB58bNKSOfPf0Euqvw0UQUHoaAh7dEALw_wcB&aff_fcid=1dd59fa476e74bb28518f2a71097c23c-1720196255651-05598-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=1dd59fa476e74bb28518f2a71097c23c-1720196255651-05598-UneMJZVf&terminal_id=c303013dd33d4a13b816ea2b4fe98f02&afSmartRedirect=n
+
 
 **ULN2003-Placa de controlador de Motor paso a paso:** 
-https://es.aliexpress.com/item/1005005253187354.html?src=google&src=google&albch=shopping&acnt=439-079-4345&slnk=&plac=&mtctp=&albbt=Google_7_shopping&gclsrc=aw.ds&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&src=google&albch=shopping&acnt=439-079-4345&slnk=&plac=&mtctp=&albbt=Google_7_shopping&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=es1005005253187354&ds_e_product_merchant_id=109233205&ds_e_product_country=ES&ds_e_product_language=es&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20330803848&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0EkCYMPnQsvTrx-iZY270ItN2ZD4tF2qCkDuRlDzXjfIPUkdrnIQdsaAhmjEALw_wcB&aff_fcid=f124af7403f846278e4792d949f91591-1720196246888-03377-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=f124af7403f846278e4792d949f91591-1720196246888-03377-UneMJZVf&terminal_id=c303013dd33d4a13b816ea2b4fe98f02&afSmartRedirect=n
+https://acesse.one/pJFEp
 
 **OcioDual Módulo Relé 5V 10A:** 
-https://www.pccomponentes.com/ociodual-modulo-rele-5v-10a-1-canal-para-raspberry-pi-8051-avr-pic-dsp-logic?campaigntype=eshopping&campaignchannel=shopping&gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0FDKLX9twEZjFcym31-Wu6wIbpNqpC53AC56IRcgacjXzjZGPnNCu4aAgg7EALw_wcB
+https://acesse.dev/zuqcN
 
 **Electroiman 12V:** 
-https://www.transmotec.es/product/em2015-12v/?vat=true&gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0F_-T0AiABiw6HTlzioaJhOASuCUZf8RiSqUM3F623CIl0FGoPmEw4aAjhuEALw_wcB
+https://acesse.dev/jYaBU
 
 **Raspberry Pi 3B:** 
-https://www.amazon.es/Raspberry-Pi-Modelo-Quad-Core-Cortex-A53/dp/B01CD5VC92/ref=asc_df_B01CD5VC92/?tag=googshopes-21&linkCode=df0&hvadid=699858699962&hvpos=&hvnetw=g&hvrand=9935030387353619491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198465&hvtargid=pla-344941896120&psc=1&mcid=f31bca0cf4863c51a20eb1713bc04b2f&gad_source=1
+https://encr.pw/UypIj
 
 **Cámara Raspberry Pi v2:** 
-https://tienda.bricogeek.com/accesorios-raspberry-pi/822-camara-raspberry-pi-v2-8-megapixels.html?gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0FPMxySeH8Nw4frFMZA8ZZfNim1WFZTpJ7FSy4sNYRpaC1IRxdati0aAuqfEALw_wcB
+https://l1nq.com/XGCIT
 
 **Fuente de Alimentación ATX 500W:** 
-https://www.pccomponentes.com/unykach-fuente-de-alimentacion-atx-500w?campaigntype=eshopping&campaignchannel=shopping&gad_source=1&gclid=Cj0KCQjws560BhCuARIsAHMqE0EMWZVXZzKKNMqcAN2GbT8Wlyg1CfwVfRP3YpWx7lcoWziE45mE4qsaAsRXEALw_wcB
+https://acesse.dev/x1iNN
 
 **Protoboard de 456 Puntos:** 
-https://www.bt-ingenieros.com/electronica/6752-protoboard-de-456-puntos-con-contactos-de-niquel-plata.html?utm_source=kelkooes&utm_medium=cpc&utm_campaign=kelkooclick&utm_term=Velleman+Protoboard+de+456+Puntos+con+co&from=kelkoo
+https://encr.pw/PCV6Q
 
 * ### Schematic
 
