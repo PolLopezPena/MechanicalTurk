@@ -43,8 +43,13 @@ The project consists of several key components that work together to create a co
 ## Library
 
 * ### Hardware
+* **Stepper** x2
+* **ULN
 
 * ### Schematic
+
+* ### Software
+  
 
 * ### 3D Components
 
