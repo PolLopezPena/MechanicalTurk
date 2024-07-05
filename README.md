@@ -44,28 +44,28 @@ The project consists of several key components that work together to create a co
 
 * ### Hardware
 **Motor paso a paso de 5V :** 
-
+https://goo.su/S9cJCD
 
 **ULN2003-Placa de controlador de Motor paso a paso:** 
-https://acesse.one/pJFEp
+https://goo.su/S9cJCD
 
 **OcioDual Módulo Relé 5V 10A:** 
-https://acesse.dev/zuqcN
+https://goo.su/Mz3IfKR
 
 **Electroiman 12V:** 
-https://acesse.dev/jYaBU
+https://goo.su/75PAyq
 
 **Raspberry Pi 3B:** 
-https://encr.pw/UypIj
+https://goo.su/UA1p
 
 **Cámara Raspberry Pi v2:** 
-https://l1nq.com/XGCIT
+https://goo.su/2GHD9UQ
 
 **Fuente de Alimentación ATX 500W:** 
-https://acesse.dev/x1iNN
+https://acortar.link/dsBHzn
 
 **Protoboard de 456 Puntos:** 
-https://encr.pw/PCV6Q
+https://acortar.link/TY06Ol
 
 * ### Schematic
 
