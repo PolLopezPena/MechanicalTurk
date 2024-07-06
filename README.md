@@ -43,28 +43,29 @@ The project consists of several key components that work together to create a co
 ## Library
 
 * ### Hardware
-**Motor paso a paso de 5V :** 
+#### Chess
+**5V stepper motor :** 
 https://goo.su/S9cJCD
 
-**ULN2003-Placa de controlador de Motor paso a paso:** 
+**ULN2003-Stepper Motor Driver Board:** 
 https://goo.su/S9cJCD
 
-**OcioDual Módulo Relé 5V 10A:** 
+**OcioDual Relay Module 5V 10A:** 
 https://goo.su/Mz3IfKR
 
-**Electroiman 12V:** 
+**Electromagnet 12V:** 
 https://goo.su/75PAyq
 
 **Raspberry Pi 3B:** 
 https://goo.su/UA1p
 
-**Cámara Raspberry Pi v2:** 
+**Raspberry Pi Camera v2:** 
 https://goo.su/2GHD9UQ
 
-**Fuente de Alimentación ATX 500W:** 
+**ATX 500W Power Supply:** 
 https://acortar.link/dsBHzn
 
-**Protoboard de 456 Puntos:** 
+**456 Point Breadboard:** 
 https://acortar.link/TY06Ol
 
 * ### Schematic
