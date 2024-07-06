@@ -68,8 +68,17 @@ https://acortar.link/dsBHzn
 **456 Point Breadboard:** 
 https://acortar.link/TY06Ol
 
-#### Face
+#### Face  
 
+**Arduino Nano:** https://n9.cl/pvt57b
+
+**Dual Leisure L298N Controller:** https://n9.cl/a0iw4
+
+**Micro servo 9G:** https://n9.cl/h44zv
+
+**Arduino Uno:** https://n9.cl/hab0d
+
+**MAX7219 Dot Matrix Module for Arduino Microcontroller:** https://n9.cl/16amx
 
 * ### Schematic
 
