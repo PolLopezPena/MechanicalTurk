@@ -34,7 +34,7 @@ The project consists of several key components that work together to create a co
 
 **5. Interactive Robotic Face**
 
-*  **LCD Screen**: Displays different facial expressions in response to the state of the game.
+*  **Eyes, Brows and Mouth**: Displays different facial expressions in response to the state of the game.
 
 *  **Gestures and Expressions**: Programmed gestures and facial expressions to reflect emotions like happiness, surprise, or frustration, depending on the game's progress.
 
@@ -74,11 +74,13 @@ https://acortar.link/TY06Ol
 
 **Dual Leisure L298N Controller:** https://n9.cl/a0iw4
 
-**Micro servo 9G:** https://n9.cl/h44zv
+**4x Micro servo 9G:** https://n9.cl/h44zv
 
 **Arduino Uno:** https://n9.cl/hab0d
 
-**MAX7219 Dot Matrix Module for Arduino Microcontroller:** https://n9.cl/16amx
+**Arduino NaNo:** https://tienda.bricogeek.com/arduino-compatibles/1911-nano-v3-atmega328-compatible-arduino.html?gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP5ihEMdFwEcptXyFqZtUlX9uEVktSkrFmWxxx4lc-3VZqXkVSCEr5gaAkIQEALw_wcB
+
+**Neopixel Neomatrix 8x32** https://n9.cl/16amx](https://botland.store/segment-displays-matrices/6185-elastic-matrix-8x32-256-rgb-led-rgb-ws2812b-individually-addressed-5904422374952.html
 
 * ### Schematic
 
