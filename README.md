@@ -83,6 +83,8 @@ https://acortar.link/TY06Ol
 **Neopixel Neomatrix 8x32** https://n9.cl/16amx](https://botland.store/segment-displays-matrices/6185-elastic-matrix-8x32-256-rgb-led-rgb-ws2812b-individually-addressed-5904422374952.html
 
 * ### Schematic
+**Cabeza**
+![Cabeza_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/ad2e15a4-688d-462c-a651-70540a8c918b)
 
 * ### Software
   
