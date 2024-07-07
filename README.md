@@ -85,7 +85,8 @@ https://acortar.link/TY06Ol
 * ### Schematic
 **Cabeza**
 ![Cabeza_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/ad2e15a4-688d-462c-a651-70540a8c918b)
-
+**Chess**
+![Chess_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/d1a6ae5d-ad86-4b42-886c-01ec72a7d686)
 * ### Software
   
 
