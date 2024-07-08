@@ -14,6 +14,7 @@
   - [Components List](#Components-List)
   - [How to Use the 3D Files](#How-to-Use-the-3D-Files)
   - [Folder Structure](#Folder-Structure)
+- [Authors](#Authors)
 
 
 ## What is it?
@@ -214,4 +215,9 @@ This section lists the 3D components used in the project along with their descri
       
     *  **`chessboard.stl`**
 
+
+## Authors
+* Pol López Peña
+* Jhonatan Alejandro Quisbert Tarqui
+* Pol González Casals
 
