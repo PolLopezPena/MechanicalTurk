@@ -1,7 +1,7 @@
 # Mechanical-Turk
 
 ## Table of Contents
-
+- [What is it?](#What is it?)
 
 ## What is it?
 The project involves creating an automated chess system inspired by the legendary "Mechanical Turk". This system allows a human user to play chess against a machine, which not only calculates and executes moves on the board but also interacts emotionally through a robotic face. The objective of the project is to combine advanced computer vision, robotics, and programming techniques to offer a unique and interactive gameplay experience.
