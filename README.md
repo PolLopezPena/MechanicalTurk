@@ -10,8 +10,6 @@
      - [Chess](#Chess)
      - [Face](#Face)
   - [Schematic](#Schematic)
-     - [Chess](#Chess)
-     - [Face](#Face)
   - [Software](#Software)
   - [3D Components](#3D-Components)
      - [Components List](#Components-List)
