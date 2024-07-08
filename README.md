@@ -1,8 +1,14 @@
 # Mechanical-Turk
 
+## Table of Contents
+
+
+## What is it?
 The project involves creating an automated chess system inspired by the legendary "Mechanical Turk". This system allows a human user to play chess against a machine, which not only calculates and executes moves on the board but also interacts emotionally through a robotic face. The objective of the project is to combine advanced computer vision, robotics, and programming techniques to offer a unique and interactive gameplay experience.
 
-## Description
+## Requirements
+
+## Documentation
 
 **Project Components**
 
@@ -83,10 +89,10 @@ https://acortar.link/TY06Ol
 **Neopixel Neomatrix 8x32** https://n9.cl/16amx](https://botland.store/segment-displays-matrices/6185-elastic-matrix-8x32-256-rgb-led-rgb-ws2812b-individually-addressed-5904422374952.html
 
 * ### Schematic
-**Face**
-![Cabeza_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/ad2e15a4-688d-462c-a651-70540a8c918b)
-**Chess**
+#### Chess
 ![Chess_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/d1a6ae5d-ad86-4b42-886c-01ec72a7d686)
+#### Face
+![Cabeza_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/ad2e15a4-688d-462c-a651-70540a8c918b)
 * ### Software
   
 
@@ -186,4 +192,4 @@ This section lists the 3D components used in the project along with their descri
       
     *  **`chessboard.stl`**
 
-* ### (extra)
+
