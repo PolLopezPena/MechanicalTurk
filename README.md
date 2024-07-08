@@ -76,33 +76,21 @@ To set up Mechanical Turk, follow these steps:
 |**5V stepper motor :**| img | https://goo.su/S9cJCD |
 |**ULN2003-Stepper Motor Driver Board:**| img | https://goo.su/S9cJCD |
 |**OcioDual Relay Module 5V 10A:**|img| https://goo.su/Mz3IfKR |
-
-**Electromagnet 12V:** 
-https://goo.su/75PAyq
-
-**Raspberry Pi 3B:** 
-https://goo.su/UA1p
-
-**Raspberry Pi Camera v2:** 
-https://goo.su/2GHD9UQ
-
-**ATX 500W Power Supply:** 
-https://acortar.link/dsBHzn
-
-**456 Point Breadboard:** 
-https://acortar.link/TY06Ol
+|**Electromagnet 12V:**|img| https://goo.su/75PAyq |
+|**Raspberry Pi 3B:**|img| https://goo.su/UA1p |
+|**Raspberry Pi Camera v2:**|img| https://goo.su/2GHD9UQ |
+|**ATX 500W Power Supply:**|img| https://acortar.link/dsBHzn |
+|**456 Point Breadboard:**|img|| https://acortar.link/TY06Ol |
 
 
-- ### Face  
-**Arduino Nano:** https://n9.cl/pvt57b
-
-**Dual Leisure L298N Controller:** https://n9.cl/a0iw4
-
-**4x Micro servo 9G:** https://n9.cl/h44zv
-
-**Arduino Uno:** https://n9.cl/hab0d
-
-**Neopixel Neomatrix 8x32** https://acortar.link/TBNjKt
+- ### Face
+| Component | Image | Link |
+|----------------------|-----|-----------------------|
+|**Arduino Nano:**|| https://n9.cl/pvt57b|
+|**Dual Leisure L298N Controller:**|| https://n9.cl/a0iw4|
+|**4x Micro servo 9G:**|| https://n9.cl/h44zv|
+|**Arduino Uno:**|| https://n9.cl/hab0d|
+|**Neopixel Neomatrix 8x32** ||https://acortar.link/TBNjKt|
 
 
 ## Schematic
