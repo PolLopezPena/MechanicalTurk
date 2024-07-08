@@ -86,11 +86,11 @@ To set up Mechanical Turk, follow these steps:
 - ### Face
 | Component | Image | Link |
 |----------------------|-----|-----------------------|
-|**Arduino Nano:**|![73b102980_arduino-nano-r3_x](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/8be2982c-821a-40b3-a744-c2c4fc985f39) | https://n9.cl/pvt57b|
+|**Arduino Nano:**| ![73b102980_arduino-nano-r3_x](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/8be2982c-821a-40b3-a744-c2c4fc985f39) | https://n9.cl/pvt57b|
 |**PCA9685 Controller:**| ![51kshHMO+YL _AC_](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/38aa901e-25dd-435f-a7bc-e467941461d6) | https://n9.cl/a0iw4|
-|**4x Micro servo 9G:**|![61uoCSp26qL](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/00a61852-7760-4cb2-a128-7cf9032155a0) | https://n9.cl/h44zv|
-|**Arduino Uno:**|![2356913-40](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6c051796-b6c7-48cd-93c8-46779110314d) | https://n9.cl/hab0d|
-|**Neopixel Neomatrix 8x32** |![PPADA2294_Neopixel_RGB_LED_MATRIX_FLEXIBLE_main3__44844](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/ea0c40aa-b552-4ab1-bb5c-e5fbd8d19743) |https://acortar.link/TBNjKt|
+|**4x Micro servo 9G:**| ![61uoCSp26qL](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/00a61852-7760-4cb2-a128-7cf9032155a0) | https://n9.cl/h44zv|
+|**Arduino Uno:**| ![2356913-40](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6c051796-b6c7-48cd-93c8-46779110314d) | https://n9.cl/hab0d|
+|**Neopixel Neomatrix 8x32** | ![PPADA2294_Neopixel_RGB_LED_MATRIX_FLEXIBLE_main3__44844](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/ea0c40aa-b552-4ab1-bb5c-e5fbd8d19743) |https://acortar.link/TBNjKt|
 
 
 ## Schematic
