@@ -75,7 +75,7 @@ To set up Mechanical Turk, follow these steps:
 |----------------------|-----|-----------------------|
 |**5V stepper motor :**| ![motor-28byj-48-paso-a-paso-de-5v](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/0fd51982-075c-423f-9ab6-4d9dc1fa928c) | https://goo.su/S9cJCD |
 |**ULN2003-Stepper Motor Driver Board:**| ![1631-00](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/5af206d2-333f-41d8-aa23-8f11db6fdf94) | https://goo.su/S9cJCD |
-|**OcioDual Relay Module 5V 10A:**|| https://goo.su/Mz3IfKR |
+|**OcioDual Relay Module 5V 10A:**|![51sQx-WGVOL](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/9f88efdf-bd56-44a2-b1e7-76e7df18c7ac) | https://goo.su/Mz3IfKR |
 |**Electromagnet 12V:**|![s-l1600](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/14a2cb08-ef98-481e-b826-76ce928c1337) | https://goo.su/75PAyq |
 |**Raspberry Pi 3B:**|![91zSu44+34L _AC_UF894,1000_QL80_](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/4a6e4b41-1469-4c85-be64-189009533e3b) | https://goo.su/UA1p |
 |**Raspberry Pi Camera v2:**|![6169R+wUp8L](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6943c9f3-2bc2-4c3a-ab7f-99478f34a816) | https://goo.su/2GHD9UQ |
@@ -86,11 +86,11 @@ To set up Mechanical Turk, follow these steps:
 - ### Face
 | Component | Image | Link |
 |----------------------|-----|-----------------------|
-|**Arduino Nano:**|| https://n9.cl/pvt57b|
-|**Dual Leisure L298N Controller:**|| https://n9.cl/a0iw4|
-|**4x Micro servo 9G:**|| https://n9.cl/h44zv|
-|**Arduino Uno:**|| https://n9.cl/hab0d|
-|**Neopixel Neomatrix 8x32** ||https://acortar.link/TBNjKt|
+|**Arduino Nano:**|![73b102980_arduino-nano-r3_x](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/8be2982c-821a-40b3-a744-c2c4fc985f39) | https://n9.cl/pvt57b|
+|**Dual Leisure L298N Controller:**|![51zfYTha5dL _AC_UF894,1000_QL80_](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/bdfe8fa7-f762-4d19-b916-97f92bc75476) | https://n9.cl/a0iw4|
+|**4x Micro servo 9G:**|![61uoCSp26qL](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/00a61852-7760-4cb2-a128-7cf9032155a0) | https://n9.cl/h44zv|
+|**Arduino Uno:**|![2356913-40](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6c051796-b6c7-48cd-93c8-46779110314d) | https://n9.cl/hab0d|
+|**Neopixel Neomatrix 8x32** |![PPADA2294_Neopixel_RGB_LED_MATRIX_FLEXIBLE_main3__44844](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/ea0c40aa-b552-4ab1-bb5c-e5fbd8d19743) |https://acortar.link/TBNjKt|
 
 
 ## Schematic
