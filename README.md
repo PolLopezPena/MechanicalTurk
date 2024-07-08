@@ -74,12 +74,8 @@ To set up Mechanical Turk, follow these steps:
 | Component | Image | Link |
 |----------------------|-----|-----------------------|
 |**5V stepper motor :**| img | https://goo.su/S9cJCD |
-
-**ULN2003-Stepper Motor Driver Board:** 
-https://goo.su/S9cJCD
-
-**OcioDual Relay Module 5V 10A:** 
-https://goo.su/Mz3IfKR
+|**ULN2003-Stepper Motor Driver Board:**| img | https://goo.su/S9cJCD |
+|**OcioDual Relay Module 5V 10A:**|img| https://goo.su/Mz3IfKR |
 
 **Electromagnet 12V:** 
 https://goo.su/75PAyq
