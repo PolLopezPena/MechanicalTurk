@@ -16,10 +16,13 @@
      - [How to Use the 3D Files](#How-to-Use-the-3D-Files)
      - [Folder Structure](#Folder-Structure)
 
+
 ## What is it?
 The project involves creating an automated chess system inspired by the legendary "Mechanical Turk". This system allows a human user to play chess against a machine, which not only calculates and executes moves on the board but also interacts emotionally through a robotic face. The objective of the project is to combine advanced computer vision, robotics, and programming techniques to offer a unique and interactive gameplay experience.
 
+
 ## Requirements
+
 
 ## Documentation
 
@@ -57,8 +60,15 @@ The project consists of several key components that work together to create a co
 
 *  **Gestures and Expressions**: Programmed gestures and facial expressions to reflect emotions like happiness, surprise, or frustration, depending on the game's progress.
 
-## Install
 
+## Install
+To set up Mechanical Turk, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the required libraries (check requirements).
+3. Execute main Python script.
+
+   
 ## Library
 
 * ### Hardware
@@ -87,8 +97,8 @@ https://acortar.link/dsBHzn
 **456 Point Breadboard:** 
 https://acortar.link/TY06Ol
 
-- #### Face  
 
+- #### Face  
 **Arduino Nano:** https://n9.cl/pvt57b
 
 **Dual Leisure L298N Controller:** https://n9.cl/a0iw4
@@ -101,6 +111,7 @@ https://acortar.link/TY06Ol
 
 **Neopixel Neomatrix 8x32** https://n9.cl/16amx](https://botland.store/segment-displays-matrices/6185-elastic-matrix-8x32-256-rgb-led-rgb-ws2812b-individually-addressed-5904422374952.html
 
+
 * ### Schematic
 - #### Chess
 ![Chess_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/d1a6ae5d-ad86-4b42-886c-01ec72a7d686)
@@ -110,8 +121,8 @@ https://acortar.link/TY06Ol
   
 
 * ### 3D Components
-
 This section lists the 3D components used in the project along with their descriptions, dimensions, and links to the corresponding 3D files.
+
 
 #### Components List
 **1. Rail (2 pieces)**
@@ -186,9 +197,11 @@ This section lists the 3D components used in the project along with their descri
        
 *  **File**: chessboard.stl
 
+
 #### How to Use the 3D Files
 *  **Download**: Click on the file names above to download the STL files.
 *  **Print**: Use a 3D printer to print the components. Ensure that your printer settings match the requirements of each component.
+
 
 #### Folder Structure
 *  **3D Files Folder**: All 3D files are stored in the **`/3D_files`** directory of this repository.
