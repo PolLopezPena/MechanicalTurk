@@ -107,10 +107,7 @@ https://acortar.link/TY06Ol
 
 **Arduino Uno:** https://n9.cl/hab0d
 
-**Arduino NaNo:** https://tienda.bricogeek.com/arduino-compatibles/1911-nano-v3-atmega328-compatible-arduino.html?gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP5ihEMdFwEcptXyFqZtUlX9uEVktSkrFmWxxx4lc-3VZqXkVSCEr5gaAkIQEALw_wcB
-
-**Neopixel Neomatrix 8x32** https://n9.cl/16amx](https://botland.store/segment-displays-matrices/6185-elastic-matrix-8x32-256-rgb-led-rgb-ws2812b-individually-addressed-5904422374952.html
-
+**Neopixel Neomatrix 8x32** https://acortar.link/TBNjKt
 
 * ### Schematic
 - #### Chess
