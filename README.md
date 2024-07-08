@@ -54,7 +54,7 @@ The project consists of several key components that work together to create a co
 ## Library
 
 * ### Hardware
-#### Chess
+- #### Chess
 **5V stepper motor :** 
 https://goo.su/S9cJCD
 
@@ -79,7 +79,7 @@ https://acortar.link/dsBHzn
 **456 Point Breadboard:** 
 https://acortar.link/TY06Ol
 
-#### Face  
+- #### Face  
 
 **Arduino Nano:** https://n9.cl/pvt57b
 
@@ -94,9 +94,9 @@ https://acortar.link/TY06Ol
 **Neopixel Neomatrix 8x32** https://n9.cl/16amx](https://botland.store/segment-displays-matrices/6185-elastic-matrix-8x32-256-rgb-led-rgb-ws2812b-individually-addressed-5904422374952.html
 
 * ### Schematic
-#### Chess
+- #### Chess
 ![Chess_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/d1a6ae5d-ad86-4b42-886c-01ec72a7d686)
-#### Face
+- #### Face
 ![Cabeza_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/ad2e15a4-688d-462c-a651-70540a8c918b)
 * ### Software
   
