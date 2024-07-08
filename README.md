@@ -71,8 +71,8 @@ To set up Mechanical Turk, follow these steps:
 
 ## Hardware
 - ### Chess
-**5V stepper motor :** 
-https://goo.su/S9cJCD
+| Component | Image | Link |
+|**5V stepper motor :**| img | https://goo.su/S9cJCD |
 
 **ULN2003-Stepper Motor Driver Board:** 
 https://goo.su/S9cJCD
