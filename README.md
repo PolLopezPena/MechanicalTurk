@@ -73,14 +73,14 @@ To set up Mechanical Turk, follow these steps:
 - ### Chess
 | Component | Image | Link |
 |----------------------|-----|-----------------------|
-|**5V stepper motor :**| img | https://goo.su/S9cJCD |
-|**ULN2003-Stepper Motor Driver Board:**| img | https://goo.su/S9cJCD |
-|**OcioDual Relay Module 5V 10A:**|img| https://goo.su/Mz3IfKR |
-|**Electromagnet 12V:**|img| https://goo.su/75PAyq |
-|**Raspberry Pi 3B:**|img| https://goo.su/UA1p |
-|**Raspberry Pi Camera v2:**|img| https://goo.su/2GHD9UQ |
-|**ATX 500W Power Supply:**|img| https://acortar.link/dsBHzn |
-|**456 Point Breadboard:**|img|| https://acortar.link/TY06Ol |
+|**5V stepper motor :**| ![motor-28byj-48-paso-a-paso-de-5v](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/0fd51982-075c-423f-9ab6-4d9dc1fa928c) | https://goo.su/S9cJCD |
+|**ULN2003-Stepper Motor Driver Board:**| ![1631-00](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/5af206d2-333f-41d8-aa23-8f11db6fdf94) | https://goo.su/S9cJCD |
+|**OcioDual Relay Module 5V 10A:**|| https://goo.su/Mz3IfKR |
+|**Electromagnet 12V:**|![s-l1600](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/14a2cb08-ef98-481e-b826-76ce928c1337) | https://goo.su/75PAyq |
+|**Raspberry Pi 3B:**|![91zSu44+34L _AC_UF894,1000_QL80_](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/4a6e4b41-1469-4c85-be64-189009533e3b) | https://goo.su/UA1p |
+|**Raspberry Pi Camera v2:**|![6169R+wUp8L](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6943c9f3-2bc2-4c3a-ab7f-99478f34a816) | https://goo.su/2GHD9UQ |
+|**ATX 500W Power Supply:**|![s-l600](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/95704f58-51b6-4dd2-b28f-7ca0d144d7e3) | https://acortar.link/dsBHzn |
+|**456 Point Breadboard:**|![Breadboard_456P_Vellemans_1-600x600](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/22165cd8-e895-4ac8-a4de-a5170c47d1df) |https://acortar.link/TY06Ol |
 
 
 - ### Face
