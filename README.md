@@ -5,16 +5,15 @@
 - [Requirements](#Requirements)
 - [Documentation](#Documentation)
 - [Install](#Install)
-- [Library](#Library)
-  - [Hardware](#Hardware)
-     - [Chess](#Chess)
-     - [Face](#Face)
-  - [Schematic](#Schematic)
-  - [Software](#Software)
-  - [3D Components](#3D-Components)
-     - [Components List](#Components-List)
-     - [How to Use the 3D Files](#How-to-Use-the-3D-Files)
-     - [Folder Structure](#Folder-Structure)
+- [Hardware](#Hardware)
+  - [Chess](#Chess)
+  - [Face](#Face)
+- [Schematic](#Schematic)
+- [Software](#Software)
+- [3D Components](#3D-Components)
+  - [Components List](#Components-List)
+  - [How to Use the 3D Files](#How-to-Use-the-3D-Files)
+  - [Folder Structure](#Folder-Structure)
 
 
 ## What is it?
@@ -68,11 +67,9 @@ To set up Mechanical Turk, follow these steps:
 2. Install the required libraries (check requirements).
 3. Execute main Python script.
 
-   
-## Library
 
-* ### Hardware
-- #### Chess
+## Hardware
+- ### Chess
 **5V stepper motor :** 
 https://goo.su/S9cJCD
 
@@ -98,7 +95,7 @@ https://acortar.link/dsBHzn
 https://acortar.link/TY06Ol
 
 
-- #### Face  
+- ### Face  
 **Arduino Nano:** https://n9.cl/pvt57b
 
 **Dual Leisure L298N Controller:** https://n9.cl/a0iw4
@@ -109,19 +106,21 @@ https://acortar.link/TY06Ol
 
 **Neopixel Neomatrix 8x32** https://acortar.link/TBNjKt
 
-* ### Schematic
-- #### Chess
-![Chess_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/d1a6ae5d-ad86-4b42-886c-01ec72a7d686)
-- #### Face
-![Cabeza_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/ad2e15a4-688d-462c-a651-70540a8c918b)
-* ### Software
-  
 
-* ### 3D Components
+## Schematic
+- ### Chess
+![Chess_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/d1a6ae5d-ad86-4b42-886c-01ec72a7d686)
+- ### Face
+![Cabeza_sketch](https://github.com/PolLopezPena/MechanicalTurk/assets/101926329/ad2e15a4-688d-462c-a651-70540a8c918b)
+
+
+## Software
+
+## 3D Components
 This section lists the 3D components used in the project along with their descriptions, dimensions, and links to the corresponding 3D files.
 
 
-#### Components List
+### Components List
 **1. Rail (2 pieces)**
 
 *  **Description**: Rails for moving the X-Y axes.
@@ -195,12 +194,12 @@ This section lists the 3D components used in the project along with their descri
 *  **File**: chessboard.stl
 
 
-#### How to Use the 3D Files
+### How to Use the 3D Files
 *  **Download**: Click on the file names above to download the STL files.
 *  **Print**: Use a 3D printer to print the components. Ensure that your printer settings match the requirements of each component.
 
 
-#### Folder Structure
+### Folder Structure
 *  **3D Files Folder**: All 3D files are stored in the **`/3D_files`** directory of this repository.
 * **`/3D_files`**
     *  **`rail.stl`**
