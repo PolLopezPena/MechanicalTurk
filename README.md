@@ -24,13 +24,13 @@ The project involves creating an automated chess system inspired by the legendar
 ## Requirements
 **Chess**
 
- -pip install chess
+ - pip install chess
  
- -pip install stockfish
+ - pip install stockfish
  
- -pip install time
+ - pip install time
  
- -pip install RPi.GPIO
+ - pip install RPi.GPIO
 
  **Face**
  
