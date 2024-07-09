@@ -85,7 +85,7 @@ To set up Mechanical Turk, follow these steps:
 - ### Chess
 | Component | Image | Link |
 |----------------------|-----|-----------------------|
-|**5V stepper motor :**| ![motor-28byj-48-paso-a-paso-de-5v](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/0fd51982-075c-423f-9ab6-4d9dc1fa928c){:width="50px"} | https://goo.su/S9cJCD |
+|**5V stepper motor :**| ![motor-28byj-48-paso-a-paso-de-5v](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/0fd51982-075c-423f-9ab6-4d9dc1fa928c){: width="50px"} | https://goo.su/S9cJCD |
 |**ULN2003-Stepper Motor Driver Board:**| ![1631-00](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/5af206d2-333f-41d8-aa23-8f11db6fdf94) | https://goo.su/S9cJCD |
 |**OcioDual Relay Module 5V 10A:**|![51sQx-WGVOL](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/9f88efdf-bd56-44a2-b1e7-76e7df18c7ac) | https://goo.su/Mz3IfKR |
 |**Electromagnet 12V:**|![s-l1600](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/14a2cb08-ef98-481e-b826-76ce928c1337) | https://goo.su/75PAyq |
