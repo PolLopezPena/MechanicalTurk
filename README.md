@@ -132,6 +132,10 @@ This section lists the 3D components used in the project along with their descri
 <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6e8a016a-6a06-4bc2-a448-92cd9b4b1932" alt="image" width="500"/>
 
 ### Face Software
+![softwarecara](https://github.com/PolLopezPena/MechanicalTurk/assets/101925098/ea937139-0e70-4259-87d6-d7f5d825f8be)
+
+### Chess Software
+![ChessSoftware](https://github.com/PolLopezPena/MechanicalTurk/assets/101925098/d747c48e-cf90-4482-9703-5cb1091d0997)
 
 
 ## 3D Components
