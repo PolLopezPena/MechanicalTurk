@@ -117,7 +117,7 @@ To set up Mechanical Turk, follow these steps:
 On /Computer_Vision there is the file used to detect the different pieces and the board. The code detects the chessboard and the type of the pieces (Green or Red ones), marking each with a different colour. From the detection, the code also returns the coordinates of where each piece is.
 
 
-## 3D Components
+### 3D Components
 This section lists the 3D components used in the project along with their descriptions, dimensions, and links to the corresponding 3D files.
 
 **Importatnt:** In order to use the code you must download [yolov5](https://github.com/ultralytics/yolov5) and place it in a /models sub repository inside the projects repository and place the images desired to be detected inside a /image repository. As seen in lines 111 and 113 in the code.
