@@ -22,10 +22,11 @@ The project involves creating an automated chess system inspired by the legendar
 
 
 ## Requirements
- **pip install chess**
- **pip install stockfish**
- **pip install time**
- **pip install RPi.GPIO**
+**Chess**
+ -pip install chess
+ -pip install stockfish
+ -pip install time
+ -pip install RPi.GPIO
 
 ## Documentation
 
