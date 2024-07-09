@@ -32,6 +32,10 @@ The project involves creating an automated chess system inspired by the legendar
  
  -pip install RPi.GPIO
 
+ **Face**
+ - Neopixel
+ - 
+
 ## Documentation
 
 **Project Components**
