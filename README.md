@@ -64,7 +64,7 @@ The project consists of several key components that work together to create a co
 ## Install
 To set up Mechanical Turk, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine. $git clone https://github.com/PolLopezPena/MechanicalTurk.git
 2. Install the required libraries (check requirements).
 3. Execute main Python script.
 
