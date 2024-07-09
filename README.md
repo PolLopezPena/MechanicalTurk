@@ -33,8 +33,16 @@ The project involves creating an automated chess system inspired by the legendar
  -pip install RPi.GPIO
 
  **Face**
- - Neopixel
- - 
+ 
+ - Wire
+
+ - Adafruit_PWMServoDriver
+
+ - SoftwareSerial
+
+ - Adafruit_GFX
+
+ - Adafruit_NeoMatrix
 
 ## Documentation
 
