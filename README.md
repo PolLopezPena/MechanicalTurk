@@ -120,7 +120,7 @@ This section lists the 3D components used in the project along with their descri
 
 **Importatnt:** In order to use the code you must download [yolov5](https://github.com/ultralytics/yolov5) and place it in a /models sub repository inside the projects repository and place the images desired to be detected inside a /image repository. As seen in lines 111 and 113 in the code.
 <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/5c4e33e9-faed-4ab1-98be-df30554b37ae" alt="image" width="300"/>
-<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6e8a016a-6a06-4bc2-a448-92cd9b4b1932" alt="image" width="300"/>
+<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6e8a016a-6a06-4bc2-a448-92cd9b4b1932" alt="image" width="500"/>
 
 ## 3D Components
 ### Components List
