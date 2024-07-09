@@ -86,23 +86,23 @@ To set up Mechanical Turk, follow these steps:
 | Component | Image | Link |
 |----------------------|-----|-----------------------|
 |**5V stepper motor :**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/0fd51982-075c-423f-9ab6-4d9dc1fa928c" alt="motor-28byj-48-paso-a-paso-de-5v" width="300"/>| https://goo.su/S9cJCD |
-|**ULN2003-Stepper Motor Driver Board:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/0fd51982-075c-423f-9ab6-4d9dc1fa928c" alt="motor-28byj-48-paso-a-paso-de-5v" width="300"/> | https://goo.su/S9cJCD |
-|**OcioDual Relay Module 5V 10A:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/5af206d2-333f-41d8-aa23-8f11db6fdf94" alt="1631-00" width="300"/> | https://goo.su/Mz3IfKR |
-|**Electromagnet 12V:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/9f88efdf-bd56-44a2-b1e7-76e7df18c7ac" alt="51sQx-WGVOL" width="300"/> | https://goo.su/75PAyq |
-|**Raspberry Pi 3B:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/14a2cb08-ef98-481e-b826-76ce928c1337" alt="s-l1600" width="300"/> | https://goo.su/UA1p |
-|**Raspberry Pi Camera v2:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/4a6e4b41-1469-4c85-be64-189009533e3b" alt="91zSu44+34L _AC_UF894,1000_QL80_" width="300"/> | https://goo.su/2GHD9UQ |
-|**ATX 500W Power Supply:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6943c9f3-2bc2-4c3a-ab7f-99478f34a816" alt="6169R+wUp8L" width="300"/> | https://acortar.link/dsBHzn |
-|**456 Point Breadboard:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/95704f58-51b6-4dd2-b28f-7ca0d144d7e3" alt="s-l600" width="300"/>|https://acortar.link/TY06Ol |
+|**ULN2003-Stepper Motor Driver Board:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/5af206d2-333f-41d8-aa23-8f11db6fdf94" alt="1631-00" width="300"/>| https://goo.su/S9cJCD |
+|**OcioDual Relay Module 5V 10A:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/9f88efdf-bd56-44a2-b1e7-76e7df18c7ac" alt="51sQx-WGVOL" width="300"/> | https://goo.su/Mz3IfKR |
+|**Electromagnet 12V:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/14a2cb08-ef98-481e-b826-76ce928c1337" alt="s-l1600" width="300"/> | https://goo.su/75PAyq |
+|**Raspberry Pi 3B:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/4a6e4b41-1469-4c85-be64-189009533e3b" alt="91zSu44+34L _AC_UF894,1000_QL80_" width="300"/> | https://goo.su/UA1p |
+|**Raspberry Pi Camera v2:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6943c9f3-2bc2-4c3a-ab7f-99478f34a816" alt="6169R+wUp8L" width="300"/> | https://goo.su/2GHD9UQ |
+|**ATX 500W Power Supply:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/95704f58-51b6-4dd2-b28f-7ca0d144d7e3" alt="s-l600" width="300"/> | https://acortar.link/dsBHzn |
+|**456 Point Breadboard:**|<img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/22165cd8-e895-4ac8-a4de-a5170c47d1df" alt="Breadboard_456P_Vellemans_1-600x600" width="300"/>|https://acortar.link/TY06Ol |
 
 
 - ### Face
 | Component | Image | Link |
 |----------------------|-----|-----------------------|
-|**Arduino Nano:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/22165cd8-e895-4ac8-a4de-a5170c47d1df" alt="Breadboard_456P_Vellemans_1-600x600" width="300"/> | https://n9.cl/pvt57b|
-|**PCA9685 Controller:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/8be2982c-821a-40b3-a744-c2c4fc985f39" alt="73b102980_arduino-nano-r3_x" width="300"/> | https://acortar.link/6Guztp
-|**4x Micro servo 9G:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/38aa901e-25dd-435f-a7bc-e467941461d6" alt="51kshHMO+YL _AC_" width="300"/> | https://n9.cl/h44zv|
-|**Arduino Uno:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/00a61852-7760-4cb2-a128-7cf9032155a0" alt="61uoCSp26qL" width="300"/> | https://n9.cl/hab0d|
-|**Neopixel Neomatrix 8x32** | ![PPADA2294_Neopixel_RGB_LED_MATRIX_FLEXIBLE_main3__44844](https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/ea0c40aa-b552-4ab1-bb5c-e5fbd8d19743) |https://acortar.link/TBNjKt|
+|**Arduino Nano:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/8be2982c-821a-40b3-a744-c2c4fc985f39" alt="73b102980_arduino-nano-r3_x" width="300"/> | https://n9.cl/pvt57b|
+|**PCA9685 Controller:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/38aa901e-25dd-435f-a7bc-e467941461d6" alt="51kshHMO+YL _AC_" width="300"/> | https://acortar.link/6Guztp
+|**4x Micro servo 9G:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/00a61852-7760-4cb2-a128-7cf9032155a0" alt="61uoCSp26qL" width="300"/> | https://n9.cl/h44zv|
+|**Arduino Uno:**| <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/6c051796-b6c7-48cd-93c8-46779110314d" alt="2356913-40" width="300"/> | https://n9.cl/hab0d|
+|**Neopixel Neomatrix 8x32** | <img src="https://github.com/PolLopezPena/MechanicalTurk/assets/75804697/ea0c40aa-b552-4ab1-bb5c-e5fbd8d19743" alt="PPADA2294_Neopixel_RGB_LED_MATRIX_FLEXIBLE_main3__44844" width="300"/>|https://acortar.link/TBNjKt|
 
 
 ## Schematic
